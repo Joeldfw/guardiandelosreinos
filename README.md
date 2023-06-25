@@ -1,3 +1,0 @@
-# guardiandelosreinos
-
-Un juego xdd
